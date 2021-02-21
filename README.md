@@ -1,6 +1,6 @@
 # RESOLUCIÓN DE PROBLEMAS DE COMPETENCIAS DE GOOGLE CODEJAM
 
-## Ejercicio 1: [Intro](https://github.com/isaacaruquipa/GOOGLE_COMPTETITIONS/blob/main/indice.py)
+## Intro: [Intro](https://github.com/isaacaruquipa/GOOGLE_COMPTETITIONS/blob/main/indice.py)
 
-## Ejercicio 2: [Tribonacci](https://github.com/isaacaruquipa/GOOGLE_COMPTETITIONS/blob/main/01_tribonacci.py)
-
+## Ejercicio 1: [Tribonacci](https://github.com/isaacaruquipa/GOOGLE_COMPTETITIONS/blob/main/01_tribonacci.py)
+## Ejercicio 2: [Pack the Slopes]()
